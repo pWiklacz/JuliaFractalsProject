@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JuliaFractalsProject": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
